@@ -24,7 +24,12 @@ Debugging
 
 ![WhatsApp Image 2023-08-20 at 19 55 58](https://github.com/mauriya0202/pes_asic_class/assets/112739882/3a32b012-301c-47d1-92aa-1623dbb7d31c)
 
-Signed and Unsigned numbers
+Task 3: Signed and Unsigned numbers
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/073d943a-8612-49f1-b408-90312d752741)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/83fbcfaf-e995-4fc9-81c4-d54131f267e2)
+
 
 Day2
 
