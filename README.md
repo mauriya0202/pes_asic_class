@@ -18,3 +18,9 @@ Ofast
 
 ![WhatsApp Image 2023-08-20 at 19 40 54](https://github.com/mauriya0202/pes_asic_class/assets/112739882/30715671-cf10-4bf1-8198-749d683db783)
 
+Debugging
+
+![WhatsApp Image 2023-08-20 at 19 50 34](https://github.com/mauriya0202/pes_asic_class/assets/112739882/00ff2c2e-c6f6-44ee-bc7c-c079338f749e)
+
+![WhatsApp Image 2023-08-20 at 19 55 58](https://github.com/mauriya0202/pes_asic_class/assets/112739882/3a32b012-301c-47d1-92aa-1623dbb7d31c)
+
