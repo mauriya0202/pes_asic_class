@@ -3,8 +3,10 @@ Day1
 
 Task 1: C program using GCC and Spike simulation
 
-![ Image 2023-08-20 at 19 32 47](https://github.com/mauriya0202/pes_asic_class/assets/112739882/7ce68e5d-b2bb-4f26-9620-48757e41b0b4)
-![ Image 2023-08-20 at 19 42 23](https://github.com/mauriya0202/pes_asic_class/assets/112739882/5f5f60c1-c5ca-4682-9146-4c6d1bda26b1)
+![Image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/895b2af0-944c-43c9-a9b9-b110223f246d)
+
+![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/b2a7294a-ee58-4871-8890-1a94d676de48)
+
 
 
 
@@ -12,23 +14,29 @@ Task 2: Debugging ALP
 
 O1
 
-![ Image 2023-08-20 at 19 37 53](https://github.com/mauriya0202/pes_asic_class/assets/112739882/58c4cef4-c0b9-4058-97ee-8f281d71d4bd)
+![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/4bde14fc-eea8-408d-835f-b212ce06a037)
+
 
 Ofast
 
-![ Image 2023-08-20 at 19 40 54](https://github.com/mauriya0202/pes_asic_class/assets/112739882/30715671-cf10-4bf1-8198-749d683db783)
+![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c23e717c-707f-4b72-a20f-fff7bfbfc44c)
+
 
 Debugging
 
-![ Image 2023-08-20 at 19 50 34](https://github.com/mauriya0202/pes_asic_class/assets/112739882/00ff2c2e-c6f6-44ee-bc7c-c079338f749e)
+![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/6ae1e6f1-b476-4233-855d-f06b1de6c77e)
 
-![ Image 2023-08-20 at 19 55 58](https://github.com/mauriya0202/pes_asic_class/assets/112739882/3a32b012-301c-47d1-92aa-1623dbb7d31c)
+
+![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f6f0fc39-6a8d-40eb-89a6-dd702435a96e)
+
 
 Task 3: Signed and Unsigned numbers
 
-![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/073d943a-8612-49f1-b408-90312d752741)
+![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/64fbde5d-ad02-4ca9-8516-3fa2d9cde02f)
 
-![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/83fbcfaf-e995-4fc9-81c4-d54131f267e2)
+
+![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f8b491af-3adb-4507-a910-ed7ac02c3830)
+
 
 
 Day2
