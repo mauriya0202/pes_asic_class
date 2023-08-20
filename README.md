@@ -39,7 +39,7 @@ Task 1: Sum 1 to n using ASM
 
 ![Image 2023-08-20 at 20 11 12](https://github.com/mauriya0202/pes_asic_class/assets/112739882/b87f94d9-4d4d-4a9e-8c40-725aa73fcfff)
 
-![WhatsApp Image 2023-08-20 at 20 11 33](https://github.com/mauriya0202/pes_asic_class/assets/112739882/5a03b095-1271-409f-b104-5d120bd65bd1)
+![Image 2023-08-20 at 20 11 33](https://github.com/mauriya0202/pes_asic_class/assets/112739882/5a03b095-1271-409f-b104-5d120bd65bd1)
 
 Task 2:
 
