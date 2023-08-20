@@ -2,7 +2,7 @@
 <details>
 <summary>Day1</summary>
 
-Task 1: C program using GCC and Spike simulation
+### Task 1: C program using GCC and Spike simulation
 
 ![Image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/895b2af0-944c-43c9-a9b9-b110223f246d)
 
@@ -11,7 +11,7 @@ Task 1: C program using GCC and Spike simulation
 
 
 
-Task 2: Debugging ALP
+### Task 2: Debugging ALP
 
 O1
 
@@ -31,7 +31,7 @@ Debugging
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f6f0fc39-6a8d-40eb-89a6-dd702435a96e)
 
 
-Task 3: Signed and Unsigned numbers
+### Task 3: Signed and Unsigned numbers
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/64fbde5d-ad02-4ca9-8516-3fa2d9cde02f)
 
@@ -42,7 +42,7 @@ Task 3: Signed and Unsigned numbers
 <details>
 <summary>Day2</summary>
 
-Task 1: Sum 1 to n using ASM
+### Task 1: Sum 1 to n using ASM
 
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/89d6a292-d6ff-4099-847d-906f05273053)
 
