@@ -1,5 +1,6 @@
 # pes_asic_class
-## Day1
+<details>
+<summary>Day1</summary>
 
 Task 1: C program using GCC and Spike simulation
 
@@ -37,7 +38,7 @@ Task 3: Signed and Unsigned numbers
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f8b491af-3adb-4507-a910-ed7ac02c3830)
 
-
+</details>
 
 Day2
 
