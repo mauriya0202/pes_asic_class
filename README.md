@@ -8,5 +8,7 @@ Task 1: C program using GCC and Spike simulation
 
 
 
-Task 2:
+Task 2: Debugging ALP
+
+
 
