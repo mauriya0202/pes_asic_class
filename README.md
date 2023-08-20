@@ -39,8 +39,8 @@ Task 3: Signed and Unsigned numbers
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f8b491af-3adb-4507-a910-ed7ac02c3830)
 
 </details>
-
-Day2
+<details>
+<summary>Day2</summary>
 
 Task 1: Sum 1 to n using ASM
 
@@ -48,5 +48,5 @@ Task 1: Sum 1 to n using ASM
 
 
 Task 2:
-
+</details>
 
