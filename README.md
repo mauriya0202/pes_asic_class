@@ -10,5 +10,10 @@ Task 1: C program using GCC and Spike simulation
 
 Task 2: Debugging ALP
 
+O1
 
+![WhatsApp Image 2023-08-20 at 19 37 53](https://github.com/mauriya0202/pes_asic_class/assets/112739882/58c4cef4-c0b9-4058-97ee-8f281d71d4bd)
+
+Ofast
+![WhatsApp Image 2023-08-20 at 19 40 54](https://github.com/mauriya0202/pes_asic_class/assets/112739882/30715671-cf10-4bf1-8198-749d683db783)
 
