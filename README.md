@@ -3,7 +3,7 @@ Guided by Kunal Ghosh
 <details>
 <summary>Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain</summary>
   
-# Introduction to RISC-V basic keywords
+## Introduction to RISC-V basic keywords
 
 + Instruction Set Architecture (ISA)
 + Reduced Instruction Set Computing (RISC V)
