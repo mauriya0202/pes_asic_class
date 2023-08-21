@@ -19,6 +19,15 @@ Guided by Kunal Ghosh
 + Hardware
 + Hardware Description Language
   - synthesis of RTL
+ 
+## Detailed Description Of Course Content
+
++ Pseudo Instructions
++ Base Integer Instructions (representation RV64I)
++ Multiply extension (RV64M)
++ Single and Double precision floating point extension (RV64F and RV64D)
++ Application Binary Interface (ABI)
++ Memory allocation and Stack pointer
 
 ## Labwork
   
