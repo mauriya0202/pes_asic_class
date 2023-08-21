@@ -42,17 +42,17 @@ Guided by Kunal Ghosh
 
 ### Task 2: Debugging ALP
 
-O1
++ O1
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/4bde14fc-eea8-408d-835f-b212ce06a037)
 
 
-Ofast
++ Ofast
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c23e717c-707f-4b72-a20f-fff7bfbfc44c)
 
 
-Debugging
+Debugging for Ofast
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/6ae1e6f1-b476-4233-855d-f06b1de6c77e)
 
