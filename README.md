@@ -2,7 +2,12 @@
 Guided by Kunal Ghosh
 <details>
 <summary>Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain</summary>
+  
+## RV-D1SK1 - Introduction to RISC-V basic keywords
 
++ Instruction Set Architecture (ISA)
++ 
+  
 ### Task 1: C program using GCC and Spike simulation
 
 ![Image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/895b2af0-944c-43c9-a9b9-b110223f246d)
