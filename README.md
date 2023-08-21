@@ -6,7 +6,10 @@ Guided by Kunal Ghosh
 ## Introduction to RISC-V basic keywords
 
 + Instruction Set Architecture (ISA)
-+ 
++ Reduced Instruction Set Computing (RISC V)
++ RTL Implementation
+
+## From Apps to Hardware
   
 ### Task 1: C program using GCC and Spike simulation
 
