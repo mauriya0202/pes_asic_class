@@ -3,7 +3,7 @@ Guided by Kunal Ghosh
 <details>
 <summary>Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain</summary>
   
-## Introduction to RISC-V basic keywords
+# Introduction to RISC-V basic keywords
 
 + Instruction Set Architecture (ISA)
 + Reduced Instruction Set Computing (RISC V)
@@ -17,6 +17,8 @@ Guided by Kunal Ghosh
   - Compiler
   - Assembler
 + Hardware
++ Hardware Description Language
+  - synthesis of RTL
 
 ## Labwork
   
@@ -48,6 +50,7 @@ Debugging
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f6f0fc39-6a8d-40eb-89a6-dd702435a96e)
 
+## Integer Number representation
 
 ### Task 3: Signed and Unsigned numbers
 
