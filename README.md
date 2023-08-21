@@ -1,7 +1,7 @@
 # VLSI Physical Design for ASIC
 Guided by Kunal Ghosh
 <details>
-<summary>Day1</summary>
+<summary>Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain</summary>
 
 ### Task 1: C program using GCC and Spike simulation
 
