@@ -52,7 +52,7 @@ Guided by Kunal Ghosh
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c23e717c-707f-4b72-a20f-fff7bfbfc44c)
 
 
-Debugging for Ofast
+- Debugging for Ofast
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/6ae1e6f1-b476-4233-855d-f06b1de6c77e)
 
