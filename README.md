@@ -10,6 +10,15 @@ Guided by Kunal Ghosh
 + RTL Implementation
 
 ## From Apps to Hardware
+
++ Application Software
++ System Software
+  - Operating system
+  - Compiler
+  - Assembler
++ Hardware
+
+## Labwork
   
 ### Task 1: C program using GCC and Spike simulation
 
