@@ -37,7 +37,7 @@ Guided by Kunal Ghosh
 
 ![W](https://github.com/mauriya0202/pes_asic_class/assets/112739882/b2a7294a-ee58-4871-8890-1a94d676de48)
 
-```
+
 #include <stdio.h>
 int main(){
  int i;
@@ -49,7 +49,7 @@ int main(){
  printf("sum to %d:%d \n",n,sum);
  return 0;
 } 
-```
+
 
 
 
