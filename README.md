@@ -105,6 +105,9 @@ Debugging for Ofast
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/89d6a292-d6ff-4099-847d-906f05273053)
 
 
-Task 2:
+### Task 2:  To Run C-Program On RISC-V CPU
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/a58aa33a-ecaf-4991-9d21-30d03b4929ac)
+
 </details>
 
