@@ -96,7 +96,7 @@ Debugging for Ofast
 
 </details>
 <details>
-<summary>Day2</summary>
+<summary>Day 2 - Introduction to ABI and basic verification flow</summary>
 
 ### Task 1: Sum 1 to n using ASM
 
