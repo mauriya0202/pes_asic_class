@@ -67,6 +67,12 @@ Debugging for Ofast
   - LSB
   - MSB
 + word (32 bit)
++ Range of Unsigned numbers : [0, (2^n)-1 ]
+
+### Number system for signed numbers
++  Two's complement representation
++  MSB as Sign bit
+  - [-2^(n-1), 2^(n-1)-1] 
 
 ### Task 3: Signed and Unsigned numbers
 
