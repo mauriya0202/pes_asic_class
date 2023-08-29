@@ -111,3 +111,12 @@ Debugging for Ofast
 
 </details>
 
+<details>
+  <summary>Week 2 Day 1</summary>
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8fd21ae2-bd84-4dae-bba6-bcb90e86d503)
+
+  
+</details>
+  
+</details>
