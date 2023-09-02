@@ -1,7 +1,7 @@
 # VLSI Physical Design for ASIC
 Guided by Kunal Ghosh
 <details>
-<summary>Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain</summary>
+<summary>Week 1 Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain</summary>
   
 ## Introduction to RISC-V basic keywords
 
@@ -96,7 +96,7 @@ Debugging for Ofast
 
 </details>
 <details>
-<summary>Day 2 - Introduction to ABI and basic verification flow</summary>
+<summary>Week 1 Day 2 - Introduction to ABI and basic verification flow</summary>
 
 ## Aplication Binary Interface 
 
