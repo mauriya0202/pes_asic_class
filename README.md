@@ -228,11 +228,15 @@ Debugging for Ofast
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/4c16c52e-b2d1-4dd3-bac0-5e62df4edfcc)
 
 + dff_const4
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/505a0ed7-b2de-475e-922e-d7cb6cc987d3)
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/d8fa6feb-6062-4aa3-9843-fb4e981b6d67)
 
 + dff_const5
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/29a812ac-950d-4af8-a79e-57e2c803d956)
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/3bd480fd-e03c-4454-93b2-d671da058185)
 
 
