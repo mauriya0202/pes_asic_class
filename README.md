@@ -185,7 +185,27 @@ Debugging for Ofast
 - Sequential Logic Optimization
   + Basic: Sequential Constant propogation
   + Advanced: Retiming, State Optimization, Sequential logic cloning
-  
+
+## Labwork
+
+### Task 1: Combinational
+
++ opt_check
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/246d9882-4d84-46fa-939f-fcd18853906c)
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/04edbf92-d002-4903-adee-938ef8a8604c)
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/e5e8f2f0-cc16-4172-bf37-7dc80adea678)
+
++ opt_check2
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/571fc464-a3dd-4c53-8f77-54abeed82fda)
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/2ee2d5a1-4e82-4254-8856-6ba0348b2965)
+
++ opt_check3
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/534d035d-f618-4478-b952-48484b51463b)
+
+
++ opt_check4
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/3447a165-69cf-4c7d-9466-37a8b692a8d7)
+
 
 </details>
 
