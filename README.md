@@ -292,5 +292,19 @@ Debugging for Ofast
 
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/1fc93a64-70e3-4610-a40b-d2901b2273c8)
 
+### Task 2
+
++ breaking_caveat
+
+  ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/76ffa205-1d82-4104-a46a-c39da8973876)
+
+  ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/4129217d-de97-482f-b8d0-ac746cf4a9eb)
+
+  ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/28c9649d-51ff-4e89-914c-1ced01fff22f)
+
+  ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c5199b5f-18b4-4b7e-a86a-ee389afe4503)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/34f59ced-b2c2-4e68-9a0d-aa691b866afa)
+
 
 </details>
