@@ -177,6 +177,15 @@ Debugging for Ofast
 
 <details>
   <summary>Week 2 Day 3 -  Combinational and sequential optmizations </summary>
+
+- Combinational Logic Optimization
++ Constant Propogation
++ Boolean Logic Optimization
+
+- Sequential Logic Optimization
++ Basic: Sequential Constant propogation
++ Advanced: Retiming, State Optimization, Sequential logic cloning
   
+
 </details>
 
