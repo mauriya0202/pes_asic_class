@@ -149,5 +149,29 @@ Debugging for Ofast
 
   
 </details>
-  
+
+<details>
+  <summary>Week 2 Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles </summary>
+
+  + tt-typical
+  + 025C-temperature
+  + Process, Voltage, Temperature
+  + CMOS technology
+  + Delay model: LUT
+  + Wider cells are faster but consume more power
+
+## Labwork
+
++ Hierarchichal Design
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/327ac290-835d-434f-8300-6ddb11dbf5a0)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/41aad81a-2201-4c88-8303-6cbf2ab43ae7)
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/282d662b-4f93-4fbd-890e-de5ac6391cca)
+
++ Flatten Design
+  ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/adadd34a-fe13-42f7-8747-be57be24ab29)
+  ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/84eaf200-4c3c-4e08-b4db-15be4ee5b3a8)
+
+
+</details>
 </details>
