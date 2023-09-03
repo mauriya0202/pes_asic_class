@@ -172,6 +172,6 @@ Debugging for Ofast
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/adadd34a-fe13-42f7-8747-be57be24ab29)
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/84eaf200-4c3c-4e08-b4db-15be4ee5b3a8)
 
-
++ Module level Synthesis is preffered when we have multiple instances of the same module or divide and conquer approach.
 </details>
 </details>
