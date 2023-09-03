@@ -266,6 +266,11 @@ Debugging for Ofast
 
 <details>
   <summary>Week 2 Day 4 -  GLS, blocking vs non-blocking and Synthesis-Simulation mismatch </summary>
+  
+## Labwork
 
+### Task 1
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/65366116-fa29-454b-adf4-fb1be05be67e)
 
 </details>
