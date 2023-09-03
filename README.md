@@ -174,4 +174,9 @@ Debugging for Ofast
 
 + Module level Synthesis is preffered when we have multiple instances of the same module or divide and conquer approach.
 </details>
+
+<details>
+  <summary>Week 2 Day 3 -  Combinational and sequential optmizations </summary>
+  
 </details>
+
