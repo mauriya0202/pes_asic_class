@@ -137,7 +137,7 @@ Debugging for Ofast
 + Verification of Synthesis: Netlist, testbench, iverilog
 
 
-##Labwork
+## Labwork
 
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8fd21ae2-bd84-4dae-bba6-bcb90e86d503)
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/6dffaf48-2507-4953-a8ed-636c039f234e)
