@@ -271,6 +271,26 @@ Debugging for Ofast
 
 ### Task 1
 
++ ternary_operator_mux
+  
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/65366116-fa29-454b-adf4-fb1be05be67e)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/a0bbeac1-9ca1-40c2-9836-85140e8e9147)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/9cd9e664-fc2a-49c0-bafd-5a714aa292fa)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/46f8d017-72fd-424a-8555-13df07169197)
+
+
++ bad_mux
+
+ ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/706a9b1b-9027-4625-9bb5-52448ab6d174)
+ 
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8f410770-8d5e-4a1d-8d43-b1d270ba9cd4)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/e50133e6-987d-4e10-be01-f2b48d75d530)
+
+![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/1fc93a64-70e3-4610-a40b-d2901b2273c8)
+
 
 </details>
