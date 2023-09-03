@@ -212,19 +212,27 @@ Debugging for Ofast
 ### Task 2: Sequential
 
 + dff_const1
++ 
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/271c4089-1f9e-46e3-9a58-f0e808be931f)
+
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/7d73573a-4913-49bb-87a2-6d6df08ecb4e)
+
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/b5ad63a5-eef6-4203-9c97-c6a4f4d4b540)
 
 
 
 + dff_const2
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f5c5bac7-8e03-4752-a42b-bbb8584c97cb)
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/5a27d1d9-1112-4acc-a615-09f018cc1554)
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/60d3ab1e-8c79-4846-86a5-2c8b87f69b5c)
 
 + dff_const3
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/ee33378d-ec18-4b0d-97f7-73a490098413)
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/4c16c52e-b2d1-4dd3-bac0-5e62df4edfcc)
 
 + dff_const4
