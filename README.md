@@ -206,6 +206,9 @@ Debugging for Ofast
 + opt_check4
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/3447a165-69cf-4c7d-9466-37a8b692a8d7)
 
++ multiple_module_opt
+  ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/75f451ae-cf56-4592-afaf-331ee28584e0)
+
 
 </details>
 
