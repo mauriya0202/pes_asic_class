@@ -112,8 +112,19 @@ Debugging for Ofast
 </details>
 
 <details>
-  <summary>Week 2 Day 1</summary>
+  <summary>Week 2 Day 1 - Introduction to Verilog RTL design and Synthesis</summary>
 
+  ## Simulator
+
+  + iverilog
+  + TestBench : for application of stimulus and observe the output.
+  + Test Vectors
+  + Simulator checks for changes in the input signals, for every change output will be evaluated.
+  + If no change at the input no output evaluation.
+  + Output is a VCD file (Value Change Dump).
+  + GTK Wave to view the waveform.
+
+## Labwork
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8fd21ae2-bd84-4dae-bba6-bcb90e86d503)
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/6dffaf48-2507-4953-a8ed-636c039f234e)
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/4c4319b2-a494-49a4-8ed4-af3837873503)
