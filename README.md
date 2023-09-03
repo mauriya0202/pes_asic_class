@@ -130,6 +130,14 @@ Debugging for Ofast
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/43dbc1a4-b891-45e7-bc0e-59a5f26c8d27)
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/55091f95-9276-454f-af83-e2912946d772)
 
+## Synthesizer
+
++ Converting RTL to Netlist
++ Yosys takes design and .lib file to give out the netlist
++ Verification of Synthesis: Netlist, testbench, iverilog
+
+
+##Labwork
 
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8fd21ae2-bd84-4dae-bba6-bcb90e86d503)
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/6dffaf48-2507-4953-a8ed-636c039f234e)
