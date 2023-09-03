@@ -264,3 +264,8 @@ Debugging for Ofast
 
 </details>
 
+<details>
+  <summary>Week 2 Day 4 -  GLS, blocking vs non-blocking and Synthesis-Simulation mismatch </summary>
+
+
+</details>
