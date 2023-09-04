@@ -180,16 +180,27 @@ Debugging for Ofast
 
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/82e257a1-baea-4cd7-a17d-82d09ae6a14a)
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/ece4fff6-01ed-43e8-bb79-1fa16ed53c55)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/d493b54f-a084-4268-a17a-ea58aac5c693)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/023a9165-0f24-415e-a004-95300fa610c5)
+
+
 
   - dff_asyncres
     
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/83c3673e-fd04-491b-bbab-9bdca151a10f)
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/df4ba522-d0f9-4ce6-934d-ddde71756fdb)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/f0ed9455-a7e5-466a-8d09-d2a9474745ed)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c6e7233b-098a-41b0-844a-a63b5124b058)
+
+
 
   - dff_syncres
     
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/e227d89c-b645-4713-ad00-88cee8e1bcc1)
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/57286430-f8c6-4907-aa21-3c164292fd82)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8c6da490-ab7f-4357-94d4-048d79ca3972)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c15d02be-b313-474c-96ab-dc8db5cf2b98)
+
 
 
 </details>
