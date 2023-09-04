@@ -166,13 +166,32 @@ Debugging for Ofast
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/327ac290-835d-434f-8300-6ddb11dbf5a0)
 
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/41aad81a-2201-4c88-8303-6cbf2ab43ae7)
+
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/282d662b-4f93-4fbd-890e-de5ac6391cca)
 
 + Flatten Design
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/adadd34a-fe13-42f7-8747-be57be24ab29)
+  
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/84eaf200-4c3c-4e08-b4db-15be4ee5b3a8)
 
 + Module level Synthesis is preffered when we have multiple instances of the same module or divide and conquer approach.
++ Flop coding styles
+  - dff_async_set
+
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/82e257a1-baea-4cd7-a17d-82d09ae6a14a)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/ece4fff6-01ed-43e8-bb79-1fa16ed53c55)
+
+  - dff_asyncres
+    
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/83c3673e-fd04-491b-bbab-9bdca151a10f)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/df4ba522-d0f9-4ce6-934d-ddde71756fdb)
+
+  - dff_syncres
+    
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/e227d89c-b645-4713-ad00-88cee8e1bcc1)
+    ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/57286430-f8c6-4907-aa21-3c164292fd82)
+
+
 </details>
 
 <details>
