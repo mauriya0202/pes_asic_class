@@ -215,7 +215,15 @@ show
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/57286430-f8c6-4907-aa21-3c164292fd82)
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8c6da490-ab7f-4357-94d4-048d79ca3972)
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c15d02be-b313-474c-96ab-dc8db5cf2b98)
-
+    
+```
+read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+read_verilog ../verilog_files/<file_name>.v
+synth -top <file_name>
+dfflibmap -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+abc -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+show
+```
 
 
 
