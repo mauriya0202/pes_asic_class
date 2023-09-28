@@ -181,7 +181,7 @@ write_verilog -noattr ../verilog_files/good_mux_netlis.v
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/adadd34a-fe13-42f7-8747-be57be24ab29)
   
   ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/84eaf200-4c3c-4e08-b4db-15be4ee5b3a8)
-  ```
+```
 read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 read_verilog ../verilog_files/multiple_modules.v
 synth -top multiple_modules
