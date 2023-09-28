@@ -209,6 +209,13 @@ write_verilog -noattr ../verilog_files/good_mux_netlis.v
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/8c6da490-ab7f-4357-94d4-048d79ca3972)
     ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c15d02be-b313-474c-96ab-dc8db5cf2b98)
 
+```
+read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+read_verilog ../verilog_files/multiple_modules.v
+synth -top multiple_modules
+abc -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+show
+```
 
 
 </details>
