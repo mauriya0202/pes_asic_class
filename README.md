@@ -146,7 +146,15 @@ Debugging for Ofast
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/c261fc88-e399-483f-ba67-911aaf0b2448)
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/075bf5c9-265b-42c4-830b-a5e899d44f21)
 
-
+```
+read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+read_verilog ..//verilog_files/good_mux.v
+synth -top good_mux
+abc -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+show
+write_verilog ../verilog_files/good_mux_netlis.v
+write_verilog -noattr ../verilog_files/good_mux_netlis.v
+```
   
 </details>
 
